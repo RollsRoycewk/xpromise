@@ -49,6 +49,7 @@ module.exports = function crawlerGithubTrendingData() {
 				let { url } = repo;
 
 				const [author, name] = url.slice(19).split("%2F");
+				
 				url = `https://github.com${url.slice(17).replace(/\%2F/g, "/")}`;
 
 				return {
