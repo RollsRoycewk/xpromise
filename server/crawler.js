@@ -38,6 +38,7 @@ module.exports = function crawlerGithubTrendingData() {
 			// 判断是否需要格式化数据
 			let needFormat = false;
 			const first = trendingRepos[0];
+			console.log(first);
 			if (first.author.startsWith("Star") && first.url.startsWith("/login?"))
 				needFormat = true;
 
@@ -47,8 +48,8 @@ module.exports = function crawlerGithubTrendingData() {
 			const formatData = trendingRepos.map((repo) => {
 				let { url } = repo;
 
-				const [author, name] = url.slice(19).split("%2");
-				url = `https://github.com${url.slice(17)}`;
+				const [author, name] = url.slice(19).split("%2F");
+				url = `https://github.com${url.slice(17).replace(/\%2F/g, "/")}`;
 
 				return {
 					...repo,
