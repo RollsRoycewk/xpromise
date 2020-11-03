@@ -8,7 +8,7 @@ const md = [
 	{ h1: "Github最近流行仓库～" },
 	{
 		table: {
-			headers: ["名称", "描述", "作者", "star量"],
+			headers: ["名称", "描述", "作者", "star量", "地址"],
 			rows: [],
 		},
 	},
@@ -19,7 +19,7 @@ const crawlerGithubTrendingData = require("./crawler");
 crawlerGithubTrendingData()
 	.then((trendingData) => {
 		md[1].table.rows = trendingData.map(({ author, name, desc, star, url }) => {
-			return [{ link: { title: name, source: url } }, desc, author, star];
+			return [name, desc, author, star, url];
 		});
 
 		fs.writeFileSync(dataFile, json2md(md));
