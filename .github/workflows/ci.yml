@@ -49,6 +49,7 @@ jobs:
         run: |
           git config --local user.email "webjsforyou@gmail.com"
           git config --local user.name "xiongjian"
+          git add .
           git commit -m "feat: update data" -a
 
       # 将抓取的数据上传回git仓库
