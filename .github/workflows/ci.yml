@@ -1,0 +1,63 @@
+# 触发的事件
+on:
+  # 当进行git push时触发
+  push:
+    # 分支master
+    branches:
+      - master
+  # 定时任务在utc的9点执行，换算北京时间需要加8小时也就是凌晨五点
+  schedule:
+    - cron: "0 21 * * *"
+
+# 任务
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+      # 社区封装好的 git actions
+      # https://github.com/marketplace?type=actions
+      - uses: actions/checkout@v2
+      # 安装nodejs
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      # 安装git
+      - name: Git Actions
+        uses: srt32/git-actions@v0.0.3
+
+      # 安装依赖
+      - name: Install Dependences         
+        run: |
+          cd server
+          npm config set registry http://registry.npm.taobao.org 
+          npm install
+
+      # 爬取数据
+      - name: Crawler
+        run: |
+          cd server
+          npm start   
+
+      # 设置提交用户和邮箱
+      - name: Set Git Global Config    
+        run: |
+          git config --local user.email "webjsforyou@gmail.com"
+          git config --local user.name "xiongjian"
+          git commit -m "feat: update data" -a
+
+      # 将抓取的数据上传回git仓库
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          # secrets.PERSON_TOKEN 需要在仓库 settings 中设置 secrets，名称对应为 PERSON_TOKEN
+          # PERSON_TOKEN 的值由 https://github.com/settings/tokens 生成
+          github_token: ${{ secrets.PERSON_TOKEN }}
+          branch: master
+        
