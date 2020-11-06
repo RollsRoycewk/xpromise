@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2020 | FAMAI-GmbH | 3,508 | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
-edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 21,492 | https://github.com/GitSquared/edex-ui
-algorithm-visualizer | 🎆Interactive Online Platform that Visualizes Algorithms from Code | Falgorithm-visualizer | 32,370 | https://github.com/algorithm-visualizer/algorithm-visualizer
-bypass-paywalls-chrome | Bypass Paywalls web browser extension for Chrome and Firefox. | Fiamadamdev | 10,660 | https://github.com/iamadamdev/bypass-paywalls-chrome
-scripts | 京东薅羊毛工具, 京东水果、宠物、种豆等等 | Flxk0301 | 2,173 | https://github.com/lxk0301/scripts
-Rocket.Chat | The ultimate Free Open Source Solution for team communications. | FRocketChat | 28,647 | https://github.com/RocketChat/Rocket.Chat
-ffmpeg.wasm | FFmpeg for browser and node, powered by WebAssembly | Fffmpegwasm | 1,992 | https://github.com/ffmpegwasm/ffmpeg.wasm
-bootstrap | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | Ftwbs | 145,081 | https://github.com/twbs/bootstrap
-bootstrap-datepicker | A datepicker for twitter bootstrap (@twbs) | Fuxsolutions | 12,227 | https://github.com/uxsolutions/bootstrap-datepicker
-tad | A desktop application for viewing and analyzing tabular data | Fantonycourtney | 2,191 | https://github.com/antonycourtney/tad
-circleci-docs | Documentation for CircleCI. | Fcircleci | 472 | https://github.com/circleci/circleci-docs
-lando | A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating | Flando | 2,559 | https://github.com/lando/lando
-Daily-Interview-Question | 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | FAdvanced-Frontend | 20,909 | https://github.com/Advanced-Frontend/Daily-Interview-Question
-proshop_mern | Shopping cart built with MERN & Redux | Fbradtraversy | 564 | https://github.com/bradtraversy/proshop_mern
-docs | The open-source repo for docs.github.com | Fgithub | 1,434 | https://github.com/github/docs
-react-router | Declarative routing for React | FReactTraining | 41,959 | https://github.com/ReactTraining/react-router
-clean-code-javascript | 🛁 Clean Code concepts adapted for JavaScript | Fryanmcdermott | 40,004 | https://github.com/ryanmcdermott/clean-code-javascript
-in-quiz-questions | Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз | FEbazhanov | 830 | https://github.com/Ebazhanov/in-quiz-questions
-grokking_algorithms | Code for the book Grokking Algorithms (https://amzn.to/29rVyHf) | FegonSchiele | 4,735 | https://github.com/egonSchiele/grokking_algorithms
-lighthouse-ci | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | FGoogleChrome | 3,718 | https://github.com/GoogleChrome/lighthouse-ci
-material-table | Datatable for React based on material-ui's table with additional features | Fmbrn | 2,653 | https://github.com/mbrn/material-table
-odoo | Odoo. Open Source Apps To Grow Your Business. | Fodoo | 19,306 | https://github.com/odoo/odoo
-nuxt.js | The Intuitive Vue Framework | Fnuxt | 31,191 | https://github.com/nuxt/nuxt.js
-sheetjs | 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit | FSheetJS | 23,313 | https://github.com/SheetJS/sheetjs
-quill | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | Fquilljs | 28,038 | https://github.com/quilljs/quill |
+| edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 21,979 | https://github.com/GitSquared/edex-ui
+scripts | 京东薅羊毛工具, 京东水果、宠物、种豆等等 | Flxk0301 | 2,279 | https://github.com/lxk0301/scripts
+grapesjs | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | Fartf | 12,052 | https://github.com/artf/grapesjs
+Rocket.Chat | The ultimate Free Open Source Solution for team communications. | FRocketChat | 28,657 | https://github.com/RocketChat/Rocket.Chat
+AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2020 | FAMAI-GmbH | 4,029 | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+algorithm-visualizer | 🎆Interactive Online Platform that Visualizes Algorithms from Code | Falgorithm-visualizer | 32,459 | https://github.com/algorithm-visualizer/algorithm-visualizer
+whatsapp-web.js | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | Fpedroslopez | 1,160 | https://github.com/pedroslopez/whatsapp-web.js
+clean-code-javascript | 🛁 Clean Code concepts adapted for JavaScript | Fryanmcdermott | 40,025 | https://github.com/ryanmcdermott/clean-code-javascript
+ffmpeg.wasm | FFmpeg for browser and node, powered by WebAssembly | Fffmpegwasm | 2,162 | https://github.com/ffmpegwasm/ffmpeg.wasm
+slick | the last carousel you'll ever need | Fkenwheeler | 26,209 | https://github.com/kenwheeler/slick
+quill | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | Fquilljs | 28,056 | https://github.com/quilljs/quill
+react-native-vector-icons | Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. | Foblador | 14,077 | https://github.com/oblador/react-native-vector-icons
+hexo-theme-fluid | 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo | Ffluid-dev | 1,870 | https://github.com/fluid-dev/hexo-theme-fluid
+swiper | Most modern mobile touch slider with hardware accelerated transitions | Fnolimits4web | 25,230 | https://github.com/nolimits4web/swiper
+react-native-swiper | The best Swiper component for React Native. | Fleecade | 9,231 | https://github.com/leecade/react-native-swiper
+javascript | JavaScript Style Guide | Fairbnb | 101,167 | https://github.com/airbnb/javascript
+NodeBB | Node.js based forum software built for the modern web | FNodeBB | 11,443 | https://github.com/NodeBB/NodeBB
+jsPDF | Client-side JavaScript PDF generation for everyone. | FMrRio | 20,380 | https://github.com/MrRio/jsPDF
+docs | The open-source repo for docs.github.com | Fgithub | 1,446 | https://github.com/github/docs
+react-virtualized | React components for efficiently rendering large lists and tabular data | Fbvaughn | 20,335 | https://github.com/bvaughn/react-virtualized
+joplin | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | Flaurent22 | 18,645 | https://github.com/laurent22/joplin
+cropperjs | JavaScript image cropper. | Ffengyuanchen | 8,402 | https://github.com/fengyuanchen/cropperjs
+samples | WebRTC Web demos and samples | Fwebrtc | 9,568 | https://github.com/webrtc/samples
+spug | 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 | Fopenspug | 4,893 | https://github.com/openspug/spug
+noVNC | VNC client web application | Fnovnc | 7,014 | https://github.com/novnc/noVNC |
