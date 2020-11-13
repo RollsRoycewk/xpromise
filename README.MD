@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| faker.js | generate massive amounts of realistic fake data in Node.js and the browser | FMarak | 27,046 | https://github.com/Marak/faker.js
-rengine | reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information. | Fyogeshojha | 1,963 | https://github.com/yogeshojha/rengine
-WebGL-Fluid-Simulation | Play with fluids in your browser (works even on mobile) | FPavelDoGreat | 9,915 | https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
-material-ui | React components for faster and easier web development. Build your own design system, or start with Material Design. | Fmui-org | 62,375 | https://github.com/mui-org/material-ui
-react-native-firebase | 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services. | Finvertase | 8,484 | https://github.com/invertase/react-native-firebase
-javascript | JavaScript Style Guide | Fairbnb | 101,363 | https://github.com/airbnb/javascript
-zonote | Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file. | Fzonetti | 199 | https://github.com/zonetti/zonote
-wekan | The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only. | Fwekan | 16,790 | https://github.com/wekan/wekan
-eslint-plugin-import | ESLint plugin with rules that help validate proper imports. | Fbenmosher | 2,867 | https://github.com/benmosher/eslint-plugin-import
-JD_Sign_Action | 基于github actions的京东签到、领京豆 | FZHDeveloper | 274 | https://github.com/ZHDeveloper/JD_Sign_Action
-ttv-ublock | Blocking ads on that certain streaming website | Fodensc | 293 | https://github.com/odensc/ttv-ublock
-cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io | 24,435 | https://github.com/cypress-io/cypress
-atom | The hackable text editor | Fatom | 53,557 | https://github.com/atom/atom
-next-translate | i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way! | Fvinissimus | 488 | https://github.com/vinissimus/next-translate
-webpack-boilerplate | 📦 ‎ A sensible webpack 5 boilerplate. | Ftaniarascia | 1,031 | https://github.com/taniarascia/webpack-boilerplate
-mermaid | Generation of diagram and flowchart from text in a similar manner as markdown | Fmermaid-js | 32,715 | https://github.com/mermaid-js/mermaid
-sortablejs | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | FSortableJS | 21,292 | https://github.com/SortableJS/sortablejs
-hubs | Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame. | Fmozilla | 898 | https://github.com/mozilla/hubs
-react-jsonschema-form | A React component for building Web forms from JSON Schema. | Frjsf-team | 9,201 | https://github.com/rjsf-team/react-jsonschema-form
-react-beautiful-dnd | Beautiful and accessible drag and drop for lists with React | Fatlassian | 21,342 | https://github.com/atlassian/react-beautiful-dnd
-plugins | 🍣 The one-stop shop for official Rollup plugins | Frollup | 1,264 | https://github.com/rollup/plugins
-markdown-here | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | Fadam-p | 48,930 | https://github.com/adam-p/markdown-here
-carbon | A design system built by IBM | Fcarbon-design-system | 3,641 | https://github.com/carbon-design-system/carbon
-cropperjs | JavaScript image cropper. | Ffengyuanchen | 8,447 | https://github.com/fengyuanchen/cropperjs
-QuantumultX | 同步和更新大佬脚本库，更新懒人配置 | Fw37fhy | 309 | https://github.com/w37fhy/QuantumultX |
+| 22120 | 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. | Fc9fe | 1,971 | https://github.com/c9fe/22120
+notion-clone | Edit Notes like in Notion.so. Full-Stack App using React/Express. | Fkonstantinmuenster | 753 | https://github.com/konstantinmuenster/notion-clone
+Weather-Cal | This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements. | Fmzeryck | 275 | https://github.com/mzeryck/Weather-Cal
+awesome-selfhosted | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers | Fawesome-selfhosted | 50,027 | https://github.com/awesome-selfhosted/awesome-selfhosted
+WebGL-Fluid-Simulation | Play with fluids in your browser (works even on mobile) | FPavelDoGreat | 10,011 | https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+rengine | reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information. | Fyogeshojha | 2,016 | https://github.com/yogeshojha/rengine
+three.js | JavaScript 3D library. | Fmrdoob | 64,786 | https://github.com/mrdoob/three.js
+ttv-ublock | Blocking ads on that certain streaming website | Fodensc | 320 | https://github.com/odensc/ttv-ublock
+material-ui | React components for faster and easier web development. Build your own design system, or start with Material Design. | Fmui-org | 62,408 | https://github.com/mui-org/material-ui
+gatsby | Build blazing fast, modern apps and websites with React | Fgatsbyjs | 47,790 | https://github.com/gatsbyjs/gatsby
+mermaid | Generation of diagram and flowchart from text in a similar manner as markdown | Fmermaid-js | 32,745 | https://github.com/mermaid-js/mermaid
+QuantumultX | 同步和更新大佬脚本库，更新懒人配置 | Fw37fhy | 328 | https://github.com/w37fhy/QuantumultX
+monaco-editor | A browser based code editor | Fmicrosoft | 22,232 | https://github.com/microsoft/monaco-editor
+react-native-snap-carousel | Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS. | Farchriss | 7,912 | https://github.com/archriss/react-native-snap-carousel
+MyActions | 基于Github-Action实现的京东签到,已集合NobyDa和lxk0301的签到内容,只需配置一条secret即可签到 | Fsazs34 | 293 | https://github.com/sazs34/MyActions
+appium | 📱 Automation for iOS, Android, and Windows Apps. | Fappium | 12,226 | https://github.com/appium/appium
+Chart.js | Simple HTML5 Charts using the <canvas> tag | Fchartjs | 50,974 | https://github.com/chartjs/Chart.js
+slick | the last carousel you'll ever need | Fkenwheeler | 26,232 | https://github.com/kenwheeler/slick
+swiper | Most modern mobile touch slider with hardware accelerated transitions | Fnolimits4web | 25,315 | https://github.com/nolimits4web/swiper
+javascript | JavaScript Style Guide | Fairbnb | 101,413 | https://github.com/airbnb/javascript
+cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io | 24,454 | https://github.com/cypress-io/cypress
+react-grid-layout | A draggable and resizable grid layout with responsive breakpoints, for React. | FSTRML | 12,285 | https://github.com/STRML/react-grid-layout
+juice-shop | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | Fbkimminich | 3,965 | https://github.com/bkimminich/juice-shop
+Awesome-Design-Tools | The best design tools and plugins for everything 👉 | Fgoabstract | 20,679 | https://github.com/goabstract/Awesome-Design-Tools
+awesome-cheatsheets | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | FLeCoupa | 13,880 | https://github.com/LeCoupa/awesome-cheatsheets |
