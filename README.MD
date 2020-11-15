@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| clean-code-javascript | 🛁 Clean Code concepts adapted for JavaScript | Fryanmcdermott | 40,354 | https://github.com/ryanmcdermott/clean-code-javascript
-Web-Dev-For-Beginners | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Fmicrosoft | 566 | https://github.com/microsoft/Web-Dev-For-Beginners
-faker.js | generate massive amounts of realistic fake data in Node.js and the browser | FMarak | 27,514 | https://github.com/Marak/faker.js
-Git-User-Switch | Switch git user and email at ease | Fgeongeorge | 332 | https://github.com/geongeorge/Git-User-Switch
-mermaid | Generation of diagram and flowchart from text in a similar manner as markdown | Fmermaid-js | 32,780 | https://github.com/mermaid-js/mermaid
-monaco-editor | A browser based code editor | Fmicrosoft | 22,245 | https://github.com/microsoft/monaco-editor
-notion-clone | Edit Notes like in Notion.so. Full-Stack App using React/Express. | Fkonstantinmuenster | 862 | https://github.com/konstantinmuenster/notion-clone
-editly | Slick, declarative command line video editing & API | Fmifi | 2,397 | https://github.com/mifi/editly
-javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 84,475 | https://github.com/trekhleb/javascript-algorithms
-koa | Expressive middleware for node.js using ES2017 async functions | Fkoajs | 30,236 | https://github.com/koajs/koa
-22120 | 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. | Fc9fe | 2,082 | https://github.com/c9fe/22120
-quasar | Quasar Framework - Build high-performance VueJS user interfaces in record time | Fquasarframework | 16,775 | https://github.com/quasarframework/quasar
-three.js | JavaScript 3D library. | Fmrdoob | 64,805 | https://github.com/mrdoob/three.js
-material-ui | React components for faster and easier web development. Build your own design system, or start with Material Design. | Fmui-org | 62,438 | https://github.com/mui-org/material-ui
-awx | AWX Project | Fansible | 8,627 | https://github.com/ansible/awx
-ramda | 🐏 Practical functional Javascript | Framda | 19,738 | https://github.com/ramda/ramda
-shaka-player | JavaScript player library / DASH & HLS client / MSE-EME player | Fgoogle | 4,477 | https://github.com/google/shaka-player
-Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao | 13,191 | https://github.com/qianguyihao/Web
-tech-interview-handbook | 💯 Materials to help you rock your next coding interview | Fyangshun | 46,066 | https://github.com/yangshun/tech-interview-handbook
-fullstack-course4 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Fjhu-ep-coursera | 4,263 | https://github.com/jhu-ep-coursera/fullstack-course4
-webdriverio | Next-gen browser and mobile automation test framework for Node.js | Fwebdriverio | 6,106 | https://github.com/webdriverio/webdriverio
-Prebid.js | Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free. | Fprebid | 962 | https://github.com/prebid/Prebid.js
-potree | WebGL point cloud viewer for large datasets | Fpotree | 1,968 | https://github.com/potree/potree
-Awesome-Design-Tools | The best design tools and plugins for everything 👉 | Fgoabstract | 20,690 | https://github.com/goabstract/Awesome-Design-Tools
-gpu.js | GPU Accelerated JavaScript | Fgpujs | 11,763 | https://github.com/gpujs/gpu.js |
+| FallChallenge2020 | Source code for CodinGame's Fall Challenge 2020 event. | FCodinGame | 43 | https://github.com/CodinGame/FallChallenge2020
+Web-Dev-For-Beginners | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Fmicrosoft | 1,389 | https://github.com/microsoft/Web-Dev-For-Beginners
+clean-code-javascript | 🛁 Clean Code concepts adapted for JavaScript | Fryanmcdermott | 40,690 | https://github.com/ryanmcdermott/clean-code-javascript
+iptv | Collection of 5000+ publicly available IPTV channels from all over the world | Fiptv-org | 20,687 | https://github.com/iptv-org/iptv
+tech-interview-handbook | 💯 Materials to help you rock your next coding interview | Fyangshun | 46,312 | https://github.com/yangshun/tech-interview-handbook
+github-readme-stats | ⚡ Dynamically generated stats for your github readmes | Fanuraghazra | 13,687 | https://github.com/anuraghazra/github-readme-stats
+javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 84,674 | https://github.com/trekhleb/javascript-algorithms
+strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi | 30,907 | https://github.com/strapi/strapi
+responsively-app | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. | Fresponsively-org | 8,936 | https://github.com/responsively-org/responsively-app
+node | Node.js JavaScript runtime ✨🐢🚀✨ | Fnodejs | 74,784 | https://github.com/nodejs/node
+unlock-music | Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。 | Fix64 | 5,242 | https://github.com/ix64/unlock-music
+three.js | JavaScript 3D library. | Fmrdoob | 64,818 | https://github.com/mrdoob/three.js
+whatsapp-bot | Whatsapp Bot - Node Js | FArugaZ | 87 | https://github.com/ArugaZ/whatsapp-bot
+svelte | Cybernetically enhanced web apps | Fsveltejs | 39,379 | https://github.com/sveltejs/svelte
+docs | The open-source repo for docs.github.com | Fgithub | 1,543 | https://github.com/github/docs
+ccxt | A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges | Fccxt | 14,946 | https://github.com/ccxt/ccxt
+wowchemy-hugo-modules | 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes! | Fwowchemy | 5,151 | https://github.com/wowchemy/wowchemy-hugo-modules
+yyz |  | Fmattdesl | 96 | https://github.com/mattdesl/yyz
+realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 49,639 | https://github.com/gothinkster/realworld
+outline | The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible. | Foutline | 10,144 | https://github.com/outline/outline
+OpenCore-Install-Guide | Repo for the OpenCore Install Guide | Fdortania | 1,559 | https://github.com/dortania/OpenCore-Install-Guide
+attestation-deplacement-derogatoire-q4-2020 | attestation-deplacement-derogatoire-q4-2020 public | FLAB-MI | 333 | https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020
+parcel | 📦🚀 Blazing fast, zero configuration web application bundler | Fparcel-bundler | 37,056 | https://github.com/parcel-bundler/parcel
+proshop_mern | Shopping cart built with MERN & Redux | Fbradtraversy | 595 | https://github.com/bradtraversy/proshop_mern
+SmartYouTubeTV | Watch YouTube videos on your TV and set-top-box with comfort | Fyuliskov | 3,594 | https://github.com/yuliskov/SmartYouTubeTV |
