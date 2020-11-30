@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| reveal.js | The HTML Presentation Framework | Fhakimel | 54,215 | https://github.com/hakimel/reveal.js
-twin.macro | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time. | Fben-rogerson | 1,464 | https://github.com/ben-rogerson/twin.macro
-edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 23,809 | https://github.com/GitSquared/edex-ui
-attestation-deplacement-derogatoire-q4-2020 | attestation-deplacement-derogatoire-q4-2020 public | FLAB-MI | 363 | https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020
-a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim | 2,179 | https://github.com/flybywiresim/a32nx
-Modern-HTML-Starter-Template | Modern HTML Starter Template | Fharryheman | 643 | https://github.com/harryheman/Modern-HTML-Starter-Template
-simple-peer | 📡 Simple WebRTC video, voice, and data channels | Ffeross | 4,693 | https://github.com/feross/simple-peer
-ccxt | A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges | Fccxt | 15,053 | https://github.com/ccxt/ccxt
-open-event-frontend | The frontend for the Open Event API Server https://open-event-frontend.now.sh | Ffossasia | 1,691 | https://github.com/fossasia/open-event-frontend
-clean-code-javascript | 🛁 Clean Code concepts adapted for JavaScript | Fryanmcdermott | 42,032 | https://github.com/ryanmcdermott/clean-code-javascript
-Zettlr | A Markdown Editor for the 21st century. | FZettlr | 3,989 | https://github.com/Zettlr/Zettlr
-in-quiz-questions | Linkedin quiz assessment, linkedin test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning ...) ответы на квиз, LinkedIn quiz lösungen, linkedin quiz las respuestas | FEbazhanov | 977 | https://github.com/Ebazhanov/in-quiz-questions
-fspackages | Working Title FS Packages | FWorking-Title-MSFS-Mods | 516 | https://github.com/Working-Title-MSFS-Mods/fspackages
-docs | The open-source repo for docs.github.com | Fgithub | 1,629 | https://github.com/github/docs
-tech-interview-handbook | 💯 Materials to help you rock your next coding interview | Fyangshun | 47,213 | https://github.com/yangshun/tech-interview-handbook
-coc.nvim | Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode | Fneoclide | 13,975 | https://github.com/neoclide/coc.nvim
-bitwarden_rs | Unofficial Bitwarden compatible server written in Rust | Fdani-garcia | 5,500 | https://github.com/dani-garcia/bitwarden_rs
-deleteDiscordMessages | Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete | Fvictornpb | 1,375 | https://github.com/victornpb/deleteDiscordMessages
-33-js-concepts | 📜 33 concepts every JavaScript developer should know. | Fleonardomso | 33,810 | https://github.com/leonardomso/33-js-concepts
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 489 | https://github.com/Bogdanp/awesome-advent-of-code
-WhatsAsena | WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp | FQuiec | 63 | https://github.com/Quiec/WhatsAsena
-complete-intro-to-react-v5 | The Complete Intro to React, the fifth version | Fbtholt | 3,147 | https://github.com/btholt/complete-intro-to-react-v5
-QuantumultX |  | FOrz-3 | 312 | https://github.com/Orz-3/QuantumultX
-create-node-cli | 📟 CLI to create new Node.js CLI applications in minutes not hours. | Fahmadawais | 159 | https://github.com/ahmadawais/create-node-cli
-tuyapi | 🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi. | Fcodetheweb | 839 | https://github.com/codetheweb/tuyapi |
+| x | Desktop environment in the browser. | FDustinBrett | 847 | https://github.com/DustinBrett/x
+reveal.js | The HTML Presentation Framework | Fhakimel | 54,524 | https://github.com/hakimel/reveal.js
+twin.macro | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time. | Fben-rogerson | 1,629 | https://github.com/ben-rogerson/twin.macro
+edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 24,005 | https://github.com/GitSquared/edex-ui
+JavaScript | 本人quantumult x，优先适配quantumult x， surge loon应该也能用 | Fziye12 | 102 | https://github.com/ziye12/JavaScript
+awesome-cheatsheets | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | FLeCoupa | 14,057 | https://github.com/LeCoupa/awesome-cheatsheets
+UnblockNeteaseMusic | Revive unavailable songs for Netease Cloud Music | Fnondanee | 12,281 | https://github.com/nondanee/UnblockNeteaseMusic
+zigbee2mqtt | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 | FKoenkk | 4,940 | https://github.com/Koenkk/zigbee2mqtt
+bitwarden_rs | Unofficial Bitwarden compatible server written in Rust | Fdani-garcia | 5,511 | https://github.com/dani-garcia/bitwarden_rs
+30-seconds-of-code | Short JavaScript code snippets for all your development needs | F30-seconds | 65,804 | https://github.com/30-seconds/30-seconds-of-code
+Zettlr | A Markdown Editor for the 21st century. | FZettlr | 4,057 | https://github.com/Zettlr/Zettlr
+Multiavatar | 12 Billion Unique Multicultural Avatars | Fmultiavatar | 217 | https://github.com/multiavatar/Multiavatar
+ccxt | A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges | Fccxt | 15,066 | https://github.com/ccxt/ccxt
+Motrix | A full-featured download manager. | Fagalwood | 23,736 | https://github.com/agalwood/Motrix
+discord-api-docs | Official Discord API Documentation | Fdiscord | 2,379 | https://github.com/discord/discord-api-docs
+33-js-concepts | 📜 33 concepts every JavaScript developer should know. | Fleonardomso | 33,834 | https://github.com/leonardomso/33-js-concepts
+fullstack-course4 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Fjhu-ep-coursera | 4,350 | https://github.com/jhu-ep-coursera/fullstack-course4
+bookshelf | Build a ReactJS App workshop | Fkentcdodds | 1,604 | https://github.com/kentcdodds/bookshelf
+freeCodeCamp | freeCodeCamp.org's open source codebase and curriculum. Learn to code at home. | FfreeCodeCamp | 317,106 | https://github.com/freeCodeCamp/freeCodeCamp
+OpenCore-Install-Guide | Repo for the OpenCore Install Guide | Fdortania | 1,642 | https://github.com/dortania/OpenCore-Install-Guide
+MyActions |  | Fsazs34 | 343 | https://github.com/sazs34/MyActions
+Worn-Off-Keys-Discord-Js |  | FAlexzanderFlores | 99 | https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js
+junior-recruit-scheduler | 주니어 개발자 채용 정보 | Fjojoldu | 4,487 | https://github.com/jojoldu/junior-recruit-scheduler
+docs | The open-source repo for docs.github.com | Fgithub | 1,636 | https://github.com/github/docs
+Weather-Cal | This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements. | Fmzeryck | 353 | https://github.com/mzeryck/Weather-Cal |
